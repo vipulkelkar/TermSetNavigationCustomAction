@@ -26,6 +26,10 @@ _______________________________
   
 - The term set that must be used to fetch the navigation links is a constant variable in the **TenantGlobalNavBarApplicationCustomizer.ts** file. Change this as required.
 
+
+![Navigation term set](/assets/TermSetName.PNG)
+
+
 - Execute the following command to make sure that the code builds successfully.
 
   `gulp build`
@@ -36,6 +40,9 @@ _______________________________
   
 - Once the files are bundled, you can inject the bundled JavaScript to a SharePoint site through CSOM or PnP powershell. Eg script to inject Javascript : http://ukreddysharepoint2010.blogspot.in/2016/12/how-to-inject-javascript-in-sharepoint.html
   
+  
+  
+![Navigation](/assets/Naviation.PNG)
 
 ## Change the order of Navigation nodes
 _______________________________
